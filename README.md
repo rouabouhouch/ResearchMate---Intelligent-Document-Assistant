@@ -1,5 +1,4 @@
-# ResearchMate - Intelligent Document Assistant
-![Uploading image.png…]()
+<img width="1858" height="542" alt="image" src="https://github.com/user-attachments/assets/5e970f1f-a921-4787-85a4-a2fb2cc65d9f" /># ResearchMate - Intelligent Document Assistant
 
 ## Overview
 ResearchMate is a Retrieval-Augmented Generation (RAG) system that allows you to upload documents and ask questions about their content. It combines document processing with AI-powered question answering using Ollama's language models.
